@@ -1,0 +1,7 @@
+* add multiple photos
+* slideshow photos
+* favourite list
+* cart for shops
+* chat bot
+* animated front page
+* social site authentication

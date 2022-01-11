@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./BTRE_PROJECT",
+    ]
+}
